@@ -49,7 +49,7 @@ Developed a case study on cybercrime and created a prevention checklist for stud
 - Use of online collaboration tools  
 
 🔗 Submission
-GitHub Repository Link: [PASTE YOUR REPO LINK]
+GitHub Repository Link: https://github.com/anshjain911/digital-literacy-project.git
 
 🙏 Acknowledgment
 This project was completed as part of the Digital Literacy course at VIT Bhopal University.
