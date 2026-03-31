@@ -34,7 +34,7 @@ Task 3 – Platforms Exploration
 - Completed a beginner coding challenge  
 - Created a Digital Literacy Quiz using Google Forms  
 
-🔗 Google Form Link: [PASTE YOUR LINK HERE]
+🔗 Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdaKeShD8RUhhL6LZrCvv8NRnsddR4mysVY_wel0Gq40SUOYg/viewform?usp=header
 
 Task 4 – Email Etiquette
 Drafted two professional emails and created a social media do’s and don’ts checklist.
